@@ -1,4 +1,0 @@
- class Baba_@lal{
- 
- 
- }
