@@ -1,0 +1,3 @@
+class Earth extends Planet{
+
+}
