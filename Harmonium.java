@@ -1,4 +1,0 @@
-class Harmonium extends MusicalInstrument{
-
-
-}

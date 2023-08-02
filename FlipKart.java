@@ -1,3 +1,0 @@
-class FlipKart extends Ecommerce{
-
-}

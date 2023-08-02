@@ -1,3 +1,0 @@
-class Pvr extends Theater{
-
-}

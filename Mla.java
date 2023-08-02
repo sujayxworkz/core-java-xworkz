@@ -1,5 +1,0 @@
-class Mla extends Minister{
-
-
-
-}
