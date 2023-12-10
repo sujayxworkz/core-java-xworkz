@@ -1,0 +1,39 @@
+       body{
+            border: 5cm;
+border-color: blueviolet;
+background-color:rgb(243, 243, 178);
+}
+
+label{
+   align-items: center;
+  justify-content: center;
+}
+
+form{
+    border: 3px solid green;
+    background-color:rgb(199, 215, 240);
+margin-top: 1%;
+margin-right: 25%;
+margin-left: 25%;
+margin-bottom: 2%;
+text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(235, 172, 127);
+}
+
+#b1{
+    margin-bottom: 1%;
+    width: 2.0cm;
+    height: 0.8cm;
+    background-color: rgb(169, 236, 102);
+}
+.fas fa-home{
+   height: 10.0cm;
+   width: 10.0cm;
+    }
